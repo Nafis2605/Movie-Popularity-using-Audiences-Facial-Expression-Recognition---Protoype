@@ -1,0 +1,3 @@
+# Measurement of Movie Popularity using Audiences’ Facial Expression Recognition
+
+Our proposed system is completely dependent on the video feed received from the night vision camera set up in the theatre. Night vision camera is set up in the theatre in different positions to get the continuous and live video feed of the audience. The captured live video feed is passed to a trained and advanced machine learning model which can recognize facial expressions. The machine learning model measures audience engagement using various metrics. Finally, the system shows the calculated result of the movie's popularity on the user interface.
